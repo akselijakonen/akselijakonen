@@ -1,0 +1,53 @@
+body {
+background-color: wheat;
+}
+
+h1 {
+   color: green;
+}
+
+h2 {
+   color: seagreen;
+}
+
+.esimerkki {
+    color: darkgreen;
+}
+
+.hankalaa {
+    color: darkolivegreen;
+}
+
+.esimerkki-box {
+    background-color: yellowgreen;
+    border: 1px solid;
+    padding: 5px;
+}
+
+.spanni {
+    color: darkseagreen;
+}
+
+table {
+    width: 300px;
+    border-collapse: collapse;
+}
+
+.jsharkkatyyli{
+    display: none;
+}
+
+table tr td {
+    border: solid black;
+    padding-left: 5px;
+    border-spacing: 0px;
+}
+
+td {
+    color: black;
+}
+
+tbody tr:nth-child(odd) {
+    background-color: lightgreen;
+}
+
